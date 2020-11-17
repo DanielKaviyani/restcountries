@@ -1,6 +1,10 @@
 $body-font-family: 'Nunito Sans', sans-serif;
 $grid-gutter: 50px;
 
+.cursor-pointer:hover {
+    cursor: pointer;
+}
+
 .vue-notification {
     padding: 10px;
     margin: 5px 5px 0 0;

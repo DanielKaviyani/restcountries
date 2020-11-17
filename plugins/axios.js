@@ -4,7 +4,6 @@ export default function ({ $axios, redirect }) {
     $axios.onError(error => {
         Vue.notify({
             group: 'message',
-            title: 'Error Message:',
             type: 'error',
             text: error.response
                 ? error.response.data.message

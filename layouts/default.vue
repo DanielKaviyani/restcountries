@@ -10,7 +10,7 @@
                         Where in the world?
                     </div>
                     <div
-                        class="text--primary caption"
+                        class="text--primary caption cursor-pointer"
                         @click="$vuetify.theme.dark = !$vuetify.theme.dark"
                     >
                         <v-icon size="15">

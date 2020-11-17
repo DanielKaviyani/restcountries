@@ -1,4 +1,14 @@
 # restcountries
+---
+
+[Demo](https://restapicountries.herokuapp.com/)
+
+
+**Technologies:**
+- VueJS ([docs](https://vuejs.org/))
+- NuxtJs ([docs](https://nuxtjs.org/))
+- VuetifyJs ([docs](https://vuetifyjs.com/))
+
 
 ## Build Setup
 
@@ -16,5 +26,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
