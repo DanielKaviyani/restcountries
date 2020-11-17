@@ -1,0 +1,14 @@
+$body-font-family: 'Nunito Sans', sans-serif;
+$grid-gutter: 50px;
+
+.vue-notification {
+    padding: 10px;
+    margin: 5px 5px 0 0;
+    font-size: 12px;
+}
+
+.vue-notification-group {
+    position: fixed;
+    z-index: 999999;
+}
+
