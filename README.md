@@ -1,5 +1,4 @@
 # restcountries
----
 
 [Demo](https://restapicountries.herokuapp.com/)
 
